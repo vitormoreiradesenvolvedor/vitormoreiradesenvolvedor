@@ -1,4 +1,4 @@
-### Olá!! Bem Vindo 👋🏾💻🌱 Programador apaixonado, originário de uma comunidade quilombola. Minha visão é inspirada no conceito de "ubuntu", onde a colaboração e inclusão são fundamentais. Vamos codificar juntos e fazer a diferença! ✨
+### Olá!! Bem Vindo programador apaixonado. Sou originário de uma comunidade quilombola. Minha visão é inspirada no conceito de "ubuntu", onde a colaboração e inclusão são fundamentais. Vamos codificar juntos e fazer a diferença! ✨
 
 
 ![vitormoreiradesenvolvedor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormoreiradesenvolvedor&show_icons=true&theme=transparent)

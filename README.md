@@ -1,8 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-### 👋🏾 Olá! Seja bem-vindo ao meu GitHub 💻🌱
+<p align="center">
+  <img src="https://github.com/.png" width="150" height="150" style="border-radius: 50%;" />
+</p>
 
-Sou um programador apaixonado por tecnologia e inovação, com raízes em uma comunidade quilombola. Minha jornada é guiada pelo espírito de **Ubuntu** – "eu sou porque nós somos" – valorizando a **colaboração, a inclusão e o impacto social através da tecnologia**.
+<h3 align="center">👋🏾 Olá! Seja bem-vindo ao meu GitHub 💻🌱</h3>
+
+Sou um programador apaixonado por tecnologia e inovação, com raízes em uma comunidade quilombola. Minha jornada é guiada pelo espírito de **Ubuntu** – *"eu sou porque nós somos"* – valorizando a **colaboração, a inclusão e o impacto social através da tecnologia**.
 
 🚀 Vamos codar, aprender e transformar o mundo juntos!
 
@@ -27,6 +31,8 @@ Sou um programador apaixonado por tecnologia e inovação, com raízes em uma co
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" height="100" width="100">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" height="100" width="100">
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>

@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://github.com/.png" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://github.com/vitormoreiradesenvolvedor/vitormoreiradesenvolvedor/blob/main/ChatGPT_Image_Jul_12__2025__08_18_43_AM-removebg-preview(1).png?raw=true" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 <h3 align="center">👋🏾 Olá! Seja bem-vindo ao meu GitHub 💻🌱</h3>

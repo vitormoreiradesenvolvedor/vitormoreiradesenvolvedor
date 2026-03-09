@@ -15,10 +15,10 @@
 
 ---
 
-### 🚀 Minhas Conquistas no GitHub
+### 📈 Minha Atividade no GitHub
 
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=vitormoreiradesenvolvedor&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vitormoreiradesenvolvedor&bg_color=0d1117&color=58a6ff&line=0F52BA&point=ffffff&area=true&hide_border=true&custom_title=Minha%20Atividade%20no%20GitHub"/>
 </p>
 
 ---

@@ -15,20 +15,15 @@
 
 ---
 
-### ✨ GitHub em Números
+### ✨ Meus commits
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vitormoreiradesenvolvedor&theme=transparent&hide_border=true&locale=pt_BR" height="170" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitormoreiradesenvolvedor/vitormoreiradesenvolvedor/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitormoreiradesenvolvedor/vitormoreiradesenvolvedor/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitormoreiradesenvolvedor/vitormoreiradesenvolvedor/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormoreiradesenvolvedor&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Langs"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vitormoreiradesenvolvedor&style=for-the-badge&color=0F52BA" alt="Profile views"/>
-</p>
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas

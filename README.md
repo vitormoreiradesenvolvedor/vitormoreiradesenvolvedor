@@ -15,11 +15,10 @@
 
 ---
 
-### 🚀 Minhas Estatísticas no GitHub
+### 🚀 Minhas Conquistas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitormoreiradesenvolvedor&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormoreiradesenvolvedor&layout=compact&theme=transparent&hide_border=true"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=vitormoreiradesenvolvedor&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---

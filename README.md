@@ -15,10 +15,18 @@
 
 ---
 
-### 📈 Minha Atividade no GitHub
+### ✨ GitHub em Números
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vitormoreiradesenvolvedor&bg_color=0d1117&color=58a6ff&line=0F52BA&point=ffffff&area=true&hide_border=true&custom_title=Minha%20Atividade%20no%20GitHub"/>
+  <img src="https://streak-stats.demolab.com?user=vitormoreiradesenvolvedor&theme=transparent&hide_border=true&locale=pt_BR" height="170" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormoreiradesenvolvedor&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Langs"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vitormoreiradesenvolvedor&style=for-the-badge&color=0F52BA" alt="Profile views"/>
 </p>
 
 ---

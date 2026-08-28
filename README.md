@@ -15,9 +15,9 @@
 
 ## Sobre
 
-Desenvolvedor de software com atuação em duas frentes complementares: plataformas digitais corporativas de grande porte e ferramentas open source para o ecossistema Linux.
+Desenvolvedor de software com atuação em três frentes complementares: plataformas digitais corporativas de grande porte, sistemas web transacionais em PHP e Laravel, e ferramentas open source para o ecossistema Linux.
 
-No ambiente corporativo trabalho com **Adobe Experience Manager**, tanto em Cloud Service quanto em On Premise, cobrindo back-end Java/OSGi, arquitetura de conteúdo headless e front-end de portais de alto tráfego no setor financeiro. Fora do horário comercial mantenho um conjunto de aplicações desktop e utilitários de linha de comando que resolvem lacunas reais do dia a dia em Linux, todos publicados como AppImage autocontido e traduzidos para múltiplos idiomas.
+Em plataformas corporativas trabalho com **Adobe Experience Manager**, tanto em Cloud Service quanto em On Premise, cobrindo back-end Java/OSGi, arquitetura de conteúdo headless e front-end de portais de alto tráfego no setor financeiro. Em **PHP e Laravel** atuo tanto na manutenção evolutiva de sistemas operacionais legados quanto em produtos novos com Laravel 11 e 12, incluindo tempo real via WebSockets e empacotamento em Docker. Fora do horário comercial mantenho um conjunto de aplicações desktop e utilitários de linha de comando que resolvem lacunas reais do dia a dia em Linux, todos publicados como AppImage autocontido e traduzidos para múltiplos idiomas.
 
 Tenho raízes em uma comunidade quilombola e carrego o princípio do **Ubuntu**, "eu sou porque nós somos", como base de como escrevo software: código legível, documentado, acessível e útil para quem não é especialista no assunto.
 
@@ -43,9 +43,23 @@ Tenho raízes em uma comunidade quilombola e carrego o princípio do **Ubuntu**,
 | **Qualidade e performance** | Core Web Vitals, orçamento de bundle, custo de query, SonarQube, WCAG 2.1 AA, cobertura de testes automatizados |
 | **Infraestrutura local** | Docker Compose de perfil duplo, certificados TLS locais, sincronização de conteúdo, builds Maven em container |
 
+### Sistemas web em PHP e Laravel
+
+Manutenção evolutiva e desenvolvimento de sistemas web em Laravel, do legado corporativo ao projeto novo.
+
+| Área | Escopo |
+| :--- | :--- |
+| **Sistemas corporativos legados** | Laravel 8 e PHP 8, Blade, Eloquent ORM e comandos Artisan em sistema operacional de campo: cadastro de instaladores e clientes, ordens de intervenção, relatórios e faturamento |
+| **Documentos e mídia** | Geração de PDF em contexto CLI e web, upload de fotos e assinaturas, resolução de paths entre <code>storage_path</code> e <code>public_path</code>, normalização de campos JSON vindos do banco |
+| **Consultas e permissões** | Relações Eloquent com eager loading, filtros compostos, joins com colunas ambíguas, controle de permissão por <code>hasPermission</code> |
+| **Projetos em Laravel moderno** | Laravel 11 e 12 com PHP 8.3, Blade, MySQL e PostgreSQL, Redis, Laravel Reverb para WebSockets, autenticação social OAuth, filas e workers |
+| **Empacotamento e deploy** | Docker multi serviço com nginx, php-fpm e supervisord em imagem única, migrations versionadas, cache de config, rota e view, deploy em Render com blueprint declarativo |
+
 ### Engenharia de aplicações
 
-Desenvolvimento full stack em **TypeScript**, **Python**, **PHP/Laravel**, **Rust** e **Java**, com foco em aplicações desktop multiplataforma (Electron e PyQt6), automação de infraestrutura e sistemas web transacionais.
+Desenvolvimento full stack em **TypeScript**, **Python**, **PHP**, **Java**, **Rust** e **Kotlin**, cobrindo aplicações desktop multiplataforma (Electron e PyQt6), APIs REST, automação de infraestrutura e integrações com serviços externos.
+
+Trabalhos recentes fora dos repositórios públicos incluem um sistema de gestão de supermercado em Java 21 com Spring Boot 3, Vue 3, PostgreSQL e Redis sobre Podman e Kubernetes, um SaaS em Laravel 12, integrações com APIs de telemetria de frota e automações de registro de ponto em Cloudflare Workers e Playwright.
 
 ---
 
@@ -69,6 +83,8 @@ Desenvolvimento full stack em **TypeScript**, **Python**, **PHP/Laravel**, **Rus
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -81,10 +97,13 @@ Desenvolvimento full stack em **TypeScript**, **Python**, **PHP/Laravel**, **Rus
   <img src="https://img.shields.io/badge/Adobe_Experience_Manager-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Sling-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
@@ -152,8 +171,8 @@ Desenvolvimento full stack em **TypeScript**, **Python**, **PHP/Laravel**, **Rus
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/vitormoreiradesenvolvedor/VaiJunto">VaiJunto</a></h4>
-      <p>Plataforma web de caronas solidárias e gratuitas para a comunidade da UFLA, com modelo híbrido de rotas fixas recorrentes e caronas sob demanda, além de gamificação por pontos para incentivar motoristas.</p>
-      <p><em>PHP, Laravel, Blade, Docker.</em></p>
+      <p>Plataforma web de caronas solidárias e gratuitas para a comunidade da UFLA, com modelo híbrido de rotas fixas recorrentes e caronas sob demanda, notificações em tempo real, login social e gamificação por pontos para incentivar motoristas. Em produção desde maio de 2026.</p>
+      <p><em>Laravel 11, PHP 8.3, Blade, MySQL e PostgreSQL, Redis, Laravel Reverb (WebSockets), Docker com nginx, php-fpm e supervisord, deploy em Render.</em></p>
     </td>
   </tr>
 </table>
@@ -177,12 +196,32 @@ Desenvolvimento full stack em **TypeScript**, **Python**, **PHP/Laravel**, **Rus
 ## Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vitormoreiradesenvolvedor&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0F52BA&icon_color=0F52BA&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormoreiradesenvolvedor&layout=compact&langs_count=8&hide_border=true&title_color=0F52BA&locale=pt-br" alt="Linguagens mais usadas"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitormoreiradesenvolvedor&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitormoreiradesenvolvedor&theme=github" alt="Resumo do perfil"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitormoreiradesenvolvedor&radius=8&theme=github-compact&hide_border=true&area=true&custom_title=Atividade%20dos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitormoreiradesenvolvedor&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitormoreiradesenvolvedor&theme=github" alt="Repositórios por linguagem"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitormoreiradesenvolvedor&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitormoreiradesenvolvedor&theme=github" alt="Linguagens com mais commits"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitormoreiradesenvolvedor&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitormoreiradesenvolvedor&theme=github" alt="Estatísticas gerais"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitormoreiradesenvolvedor&theme=github_dark&utcOffset=-3"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitormoreiradesenvolvedor&theme=github&utcOffset=-3" alt="Horários mais produtivos"/>
+  </picture>
 </p>
 
 ---
